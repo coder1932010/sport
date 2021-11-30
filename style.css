@@ -1,0 +1,30 @@
+
+input
+{
+    background: grey
+}
+.movie_head{
+    font-size: 20px;
+    padding: 6px 20px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block
+        
+}
+.movie_head i{
+    float: right;
+
+}
+.movie_text span{
+    color: crimson;
+    
+}
+.book hr{
+margin-bottom: 10px;
+    
+}
+.book{
+    cursor: pointer;
+}
+
